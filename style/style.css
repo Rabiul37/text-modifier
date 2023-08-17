@@ -1,0 +1,36 @@
+.container{
+    width:800px;
+    background-color:rgb(168, 161, 157);
+    margin:0 auto ;
+    padding:20px;
+}
+.container h1{
+    color:white;
+    text-align: center;
+   
+}
+.edit-area{
+    background-color: lightgray;
+    padding:20px;
+    width:80%;
+    margin:0 auto;
+}
+.icon{
+    display:flex;
+    justify-content: space-between;
+    padding:10px;
+}
+.start-icon , .middle-icon , .end-input{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    gap:20px;
+    font-size: 15px;
+}
+.input-number{
+    width:30px;
+}
+.text-area{
+    width:630px;
+    height: 200px;
+}
